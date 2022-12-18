@@ -1,6 +1,6 @@
 ## Welcome to my page!! 👋
 
- <h4>🌱 I'm currently studying to be a back-end developer</h4>
+ <h4>🌱 I'm currently studying to be a back-end developer in <a href="https://www.ssafy.com/">SSAFY</a></h4>
 
 <!--
 **YoonDongGyun/YoonDongGyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
